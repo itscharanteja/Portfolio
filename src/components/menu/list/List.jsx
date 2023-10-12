@@ -17,7 +17,6 @@ export default function List({ set, menuOpen, setMenuOpen }) {
         <li onClick={set}>
           <a href="#contact">Contact</a>
         </li>
-        <li>Nothing</li>
       </ul>
     </div>
   );
