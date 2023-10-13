@@ -23,6 +23,9 @@ export default function Contact() {
           <button>Submit</button>
         </form>
         {submitted ? <p>Thanks! Will reply in ASAP</p> : null}
+        <div className="socialMedia">
+          <img src="assets/github.png" alt="" />
+        </div>
       </div>
     </div>
   );
