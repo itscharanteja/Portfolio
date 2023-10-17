@@ -1,71 +1,44 @@
-# Getting Started with Create React App
+# My Portfolio
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Welcome to my portfolio, built using React.js. This repository showcases my web development skills and the projects I've worked on. Here, you'll find information about me, my projects, and how to reach out to me.
 
-## Available Scripts
+## About Me
 
-In the project directory, you can run:
+I'm Charan, a passionate web developer focusing on front-end development. I specialize in building modern, responsive web applications using React, HTML, CSS, and JavaScript technologies.
 
-### `npm start`
+## Projects
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### Project 1: [Personal Portfolio](https://itscharanteja.github.io/personal-portfolio/#portfolio)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+This is my portfolio based on my skill-based work.
 
-### `npm test`
+![Project 1 Screenshot](public/assets/portfolio.png)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### Project 2: [Blood Bank](https://github.com/itscharanteja/BloodBank)
 
-### `npm run build`
+This project is my internship project based on blood donor information. This website is built using HTML, CSS, and JS.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+![Project 2 Screenshot](public/assets/project-blood.png)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### Project 3: [Tic-Tac-Toe](https://github.com/itscharanteja/Tic-Tac-Toe-React)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+![Project 3 Screenshot](public/assets/project-tic.png)
+This is a simple web game called Tic-Tac-Toe also known as XO Game.
 
-### `npm run eject`
+## Skills
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+- HTML5
+- CSS3
+- JavaScript
+- React.js
+- Git/GitHub
+- Responsive Design
+- UI/UX Design
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Contact
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+Provide information on how people can reach out to you:
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-# Portfolio
+- **Email:** [itscharanteja789@gmail.com](mailto:itscharanteja789@gmail.com)
+- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/charan-sri-teja-b-a386a5225/)
+- **GitHub:** [GitHub Profile](https://github.com/itscharanteja)
