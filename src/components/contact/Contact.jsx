@@ -24,8 +24,26 @@ export default function Contact() {
         </form>
         {submitted ? <p>Thanks! Will reply in ASAP</p> : null}
         <div className="socialMedia">
-          <a href="#">
-            <img src="assets/github.png" alt="" />
+          <a
+            href="https://www.instagram.com/itscharanteja"
+            target="_blank"
+            rel="noreferrer"
+          >
+            <img src="assets/instagram.png" alt="Instagram" />
+          </a>
+          <a
+            href="https://www.facebook.com/itscharanteja/"
+            target="_blank"
+            rel="noreferrer"
+          >
+            <img src="assets/facebook.png" alt="Facebook" />
+          </a>
+          <a
+            href="https://www.github.com/itscharanteja"
+            target="_blank"
+            rel="noreferrer"
+          >
+            <img src="assets/github.png" alt="GitHub" />
           </a>
         </div>
       </div>
