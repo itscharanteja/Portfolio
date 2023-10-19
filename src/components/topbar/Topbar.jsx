@@ -15,7 +15,14 @@ export default function Topbar({ menuOpen, setMenuOpen }) {
             <Person2Icon className="icon" />
             <span>+918008404429</span>
             <EmailIcon className="icon" />
-            <span>itscharanteja789@gmail.com</span>
+            <span
+              onClick={() => {
+                window.location = "mailto:itscharanteja789@gmail.com";
+              }}
+              style={{ cursor: "pointer" }}
+            >
+              itscharanteja789@gmail.com
+            </span>
           </div>
         </div>
         <div className="right">
