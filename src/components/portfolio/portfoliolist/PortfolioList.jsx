@@ -11,7 +11,6 @@ export default function PortfolioList({ active, id, title, setSelected }) {
       >
         {title}
       </li>
-     
     </div>
   );
 }
