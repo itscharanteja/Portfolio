@@ -8,8 +8,8 @@ export const featuredPortfolio = [
   {
     id: 2,
     title: "User To-Do List",
-    img: "assets/project-blood.png",
-    link: "https://github.com/itscharanteja/User-To-Do-List",
+    img: "assets/project-todo.png",
+    link: "https://github.com/itscharanteja/To-do-list-react",
   },
   {
     id: 3,
@@ -35,8 +35,8 @@ export const webPortfolio = [
   {
     id: 2,
     title: "User To-Do List",
-    img: "assets/project-blood.png",
-    link: "https://github.com/itscharanteja/User-To-Do-List",
+    img: "assets/project-todo",
+    link: "https://github.com/itscharanteja/To-do-list-react",
   },
 ];
 
