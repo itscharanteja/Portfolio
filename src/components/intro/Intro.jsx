@@ -6,7 +6,11 @@ export default function Intro() {
   const textRef = useRef();
 
   useEffect(() => {
-    const strings = ["Student", "Developer"];
+    const strings = [
+      'console.log("Hello, World!");',
+      'public class HelloWorld {\n    public static void main(String[] args) {\n        System.out.println("Hello, World!");\n    }\n}',
+      'print("Hello world!)',
+    ];
 
     init(textRef.current, {
       showCursor: true,
@@ -21,7 +25,7 @@ export default function Intro() {
     <div className="intro" id="intro">
       <div className="left">
         <div className="imgContainer">
-          <img src="assets/Image1.png" alt="user" />
+          <img src="assets/Subject.png" alt="user" />
         </div>
       </div>
       <div className="right">
@@ -29,7 +33,7 @@ export default function Intro() {
           <h2>Hi, I'm</h2>
           <h1>Charan</h1>
           <h3>
-            Freelance <span ref={textRef}></span>
+            <span ref={textRef}></span>
           </h3>
         </div>
         <a href="#portfolio">

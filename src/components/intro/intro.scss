@@ -3,6 +3,7 @@
 .intro {
   background-color: white;
   display: flex;
+  animation: slideUp 0.5s ease;
   @include mobile {
     display: flex;
     flex-direction: column;
@@ -16,7 +17,7 @@
       margin-top: 25px;
       width: 700px;
       height: 115%;
-      background-color: crimson;
+      background-color: rgb(166, 228, 189);
       border-radius: 50%;
       align-items: flex-end;
       justify-content: center;
@@ -63,7 +64,7 @@
         font-size: 30px;
         span {
           font-size: inherit;
-          color: crimson;
+          color: rgb(107, 227, 151);
         }
         .ityped-cursor {
           animation: blink 1s infinite;
@@ -92,5 +93,16 @@
         }
       }
     }
+  }
+}
+
+@keyframes slideUp {
+  from {
+    transform: translateY(20px);
+    opacity: 0;
+  }
+  to {
+    transform: translateY(0);
+    opacity: 1;
   }
 }
