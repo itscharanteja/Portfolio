@@ -6,11 +6,7 @@ export default function Intro() {
   const textRef = useRef();
 
   useEffect(() => {
-    const strings = [
-      'console.log("Hello, World!");',
-      'public class HelloWorld {\n    public static void main(String[] args) {\n        System.out.println("Hello, World!");\n    }\n}',
-      'print("Hello world!)',
-    ];
+    const strings = ['console.log("Hello, World!");', 'print("Hello world!")'];
 
     init(textRef.current, {
       showCursor: true,
